@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\bin\Debug\net8.0\MyConsole.exe
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\bin\Debug\net8.0\MyConsole.deps.json
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\bin\Debug\net8.0\MyConsole.runtimeconfig.json
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\bin\Debug\net8.0\MyConsole.dll
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\bin\Debug\net8.0\MyConsole.pdb
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.dll
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\refint\MyConsole.dll
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.pdb
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\MyConsole.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Training task\C#\Shopping Cart\MyConsole\obj\Debug\net8.0\ref\MyConsole.dll
