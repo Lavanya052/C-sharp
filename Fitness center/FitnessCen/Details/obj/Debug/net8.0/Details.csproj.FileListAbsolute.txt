@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\bin\Debug\net8.0\Details.deps.json
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\bin\Debug\net8.0\Details.dll
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\bin\Debug\net8.0\Details.pdb
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.dll
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\refint\Details.dll
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\Details.pdb
+C:\Users\USER\OneDrive\Training task\C#\FitnessCen\Details\obj\Debug\net8.0\ref\Details.dll

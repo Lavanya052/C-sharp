@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Display/1.0.0": {
+        "dependencies": {
+          "Details": "1.0.0"
+        },
+        "runtime": {
+          "Display.dll": {}
+        }
+      },
+      "Details/1.0.0": {
+        "runtime": {
+          "Details.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Display/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Details/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
